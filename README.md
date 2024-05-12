@@ -37,7 +37,6 @@
 - 💬 Ask me About Web development and Web Technolgies.
 - 📫 How to reach me: [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sandeepks9199@gmail.com)](mailto:sandeepks9199@gmail.com) 
 - ⚡ Fun fact: I love to go to the travelling and playing chess.
-- 👀 Profile views: ![](https://komarev.com/ghpvc/?username=sandeepanshu)
 
 
 <h3 align="left">Connect with me:</h3>
