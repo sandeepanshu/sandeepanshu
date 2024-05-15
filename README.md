@@ -175,3 +175,35 @@ with experience at LTIMindtree, delivering high-quality products.
     />
   </a>
 </div>
+&nbsp;&nbsp;
+<h3 align="left">Coding Profiles:</h3>
+<div align="left">
+  <a
+href="https://www.linkedin.com/in/sandeepanshu/"
+target="_blank"
+rel="noopener noreferrer"
+>
+<img
+  align="left"
+  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+  alt="LinkedIn - Sandeep Anshu"
+  title="LinkedIn"
+  height="30"
+  width="40"
+/>
+</a>
+<a
+href="https://www.instagram.com/sandeep_anshu_/"
+target="_blank"
+rel="noopener noreferrer"
+>
+<img
+  align="left"
+  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
+  alt="Instagram - Sandeep Anshu"
+  title="Instagram"
+  height="30"
+  width="40"
+/>
+</a>
+</div>
