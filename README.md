@@ -178,7 +178,7 @@ with experience at LTIMindtree, delivering high-quality products.
 &nbsp;&nbsp;
 <h3 align="left">Connect with:</h3>
 <div align="left">
-  <a
+<a
 href="https://www.linkedin.com/in/sandeepanshu/"
 target="_blank"
 rel="noopener noreferrer"
@@ -202,6 +202,20 @@ rel="noopener noreferrer"
   src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
   alt="Instagram - Sandeep Anshu"
   title="Instagram"
+  height="30"
+  width="40"
+/>
+</a>
+<a
+href="https://www.facebook.com/profile.php?id=100009039946893"
+target="_blank"
+rel="noopener noreferrer"
+>
+<img
+  align="left"
+  src="https://www.facebook.com/images/fb_icon_325x325.png"
+  alt="Facebook - Sandeep Kumar"
+  title="Facebook"
   height="30"
   width="40"
 />
