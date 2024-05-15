@@ -4,13 +4,13 @@
 <div align="center">
   <a href="https://www.linkedin.com/in/sandeepanshu/">
     <img
-      src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"
+      src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="Sandeep's LinkedIn Profile"
       alt="LinkedIn Badge"
     />
   </a>
   <a href="https://twitter.com/Sandeep_anshu_/">
     <img
-      src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white"
+      src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Sandeep's Twitter Profile"
       alt="Twitter Badge"
     />
   </a>
