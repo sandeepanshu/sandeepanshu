@@ -176,7 +176,7 @@ with experience at LTIMindtree, delivering high-quality products.
   </a>
 </div>
 &nbsp;&nbsp;
-<h3 align="left">Coding Profiles:</h3>
+<h3 align="left">Connect with:</h3>
 <div align="left">
   <a
 href="https://www.linkedin.com/in/sandeepanshu/"
