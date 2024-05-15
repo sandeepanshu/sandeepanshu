@@ -42,7 +42,7 @@ with experience at LTIMindtree, delivering high-quality products.
 <a href="https://github.com/Sandeep-Sharma/github-readme-stats">
   <img
     align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandeepanshu&theme=light&count_private=true&layout=compact"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandeepanshu&theme=radical&hide=glsl" alt="Sandeep's most used languages"
     width="205"
     alt="Sandeep's most used languages"
   />
@@ -50,7 +50,7 @@ with experience at LTIMindtree, delivering high-quality products.
 <a href="https://github.com/Sandeep-Sharma/github-readme-stats">
   <img
     align="center"
-    src="https://github-readme-stats.vercel.app/api?username=sandeepanshu&show_icons=true&theme=light&line_height=27&include_all_commits=true&count_private=true&hide=issues,prs,contribs"
+    src="https://github-readme-stats.vercel.app/api?username=sandeepanshu&show_icons=true&theme=radical&line_height=27" alt="Sandeep's github stats"
     width="350"
     alt="sandeep's github stats"
   />
