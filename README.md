@@ -23,22 +23,24 @@
   </p>
 </div>
 
-#### 💻 &nbsp; About Me : 
+#### 💻 &nbsp; About Me :
+
 - 👨‍💻 I am a frontend developer specializing in web development.
-<img
-  src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif"
-  width="30"
-/>
-with experience at LTIMindtree, delivering high-quality products.
+  <img
+    src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif"
+    width="30"
+  />
+  with experience at LTIMindtree, delivering high-quality products.
 - In my free time, I work on personal projects, which I share to foster mutual growth. Feel free to explore my repositories you might find something useful.
-- 🔭 I am honing my Web Development and DSA problem solving skills. 
-- 🌱 I am currently learning Java/Spring. 
+- 🔭 I am honing my Web Development and DSA problem solving skills.
+- 🌱 I am currently learning Java/Spring.
 - 👯 I’m looking to collaborate in web dev projects.
-- 💬 Ask me About Web development and Web Technolgies. 
+- 💬 Ask me About Web development and Web Technolgies.
 - 📫 How to reach me: [Twitter](https://twitter.com/Sandeep_anshu_) and [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sandeepks9199@gmail.com)](mailto:sandeepks9199@gmail.com)
 - ⚡ Fun fact: I love to go to the travelling and playing chess.
 
 #### :fire: My Stats :
+
 <a href="https://github.com/Sandeep-Sharma/github-readme-stats">
   <img
     align="center"
@@ -57,6 +59,7 @@ with experience at LTIMindtree, delivering high-quality products.
 </a>
 
 #### :hammer_and_wrench: Languages and Tools :
+
 <div>
    <img
     src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"
