@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sandeep Sharma</h1>
-<h3 align="center">Frontend developer who aims to write quality code</h3>
+<h3 align="center">Fullstack developer who aims to write quality code</h3>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/sandeepanshu/">
