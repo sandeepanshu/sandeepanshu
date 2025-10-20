@@ -322,8 +322,9 @@ If my projects or contributions have helped you, please consider giving them a s
 
 <div align="center">
 
-![Visitor Badge](https://visitor-badge.glitch.me/badge?page_id=sandeepanshu.sandeepanshu&left_color=00d9ff&right_color=000000)
+![Profile Views](https://komarev.com/ghpvc/?username=sandeepanshu&color=00d9ff&style=flat-square)
 
 **Made with ❤️ by Sandeep Sharma**
 
 </div>
+
