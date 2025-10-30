@@ -154,13 +154,11 @@ I'm driven by curiosity and a commitment to continuous learning. Whether it's cr
 </div>
 
 ### 🔥 Contribution Streak
-
 <div align="center">
   <a href="https://github.com/sandeepanshu">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=sandeepanshu&theme=radical&background=0d1117&ring=00d9ff&fire=ff6b9d&currStreakLabel=00d9ff" alt="Sandeep's Contribution Streak"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=sandeepanshu&show_icons=true&theme=radical" alt="Sandeep's GitHub Stats"/>
   </a>
 </div>
-
 ---
 
 ## 🏆 Achievements & Highlights
