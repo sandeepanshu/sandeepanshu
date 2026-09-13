@@ -120,6 +120,11 @@ Right now I'm going deep on retrieval quality, evaluation and agent orchestratio
 
 <br /><br />
 
+<img height="160" src="https://github-readme-stats-nu-plum-59.vercel.app/api?username=sandeepanshu&show_icons=true&include_all_commits=true&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9&cache_seconds=86400" alt="stats" />
+<img height="160" src="https://github-readme-stats-nu-plum-59.vercel.app/api/top-langs/?username=sandeepanshu&layout=compact&langs_count=8&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9&cache_seconds=86400" alt="langs" />
+
+<br /><br />
+
 <img src="https://streak-stats.demolab.com?user=sandeepanshu&hide_border=true&background=0d1117&ring=00d9ff&fire=ff6b9d&currStreakLabel=00d9ff&sideLabels=c9d1d9&dates=8b949e" alt="streak" />
 
 </div>
