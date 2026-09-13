@@ -115,8 +115,6 @@ Right now I'm going deep on retrieval quality, evaluation and agent orchestratio
 <div align="center">
 
 <img src="https://img.shields.io/github/followers/sandeepanshu?style=for-the-badge&logo=github&labelColor=0d1117&color=00d9ff" alt="followers" />
-<img src="https://img.shields.io/github/stars/sandeepanshu?affiliations=OWNER&style=for-the-badge&logo=github&labelColor=0d1117&color=7c3aed" alt="stars" />
-<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fsandeepanshu&query=%24.public_repos&style=for-the-badge&logo=github&label=repos&labelColor=0d1117&color=ff6b9d" alt="repos" />
 
 <br /><br />
 
